@@ -1,1 +1,1 @@
-# ok
+projekt optymalizacja kombinatoryczna
